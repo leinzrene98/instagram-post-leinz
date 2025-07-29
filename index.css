@@ -1,0 +1,58 @@
+*{
+    border: 1px red solid;
+}
+html {
+    height: 100%;
+    
+}
+body {
+    margin: 0;
+    display: flex;
+    
+
+    
+}
+h1 {
+    font-family: Roboto;
+}
+h2 {
+    font-family: Roboto;
+}
+.top-of-post {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    align-items: center;
+}
+.top-of-post > i{
+    font-size: 20px;
+
+}
+.middle {
+    width: 100%;
+}
+.instagram-post {
+    max-width: 500px;
+} 
+.picture-of-post > img {
+    max-width: 500px;
+}
+.middle {
+    
+}
+.parent-icons {
+    display: flex;
+}
+.icons {
+    width: 100%;
+    display: flex;
+}
+.top-of-post {
+    padding: 5px;
+}
+p {
+    margin: 0;
+}
+.bookmark {
+    margin-left: auto;
+}
