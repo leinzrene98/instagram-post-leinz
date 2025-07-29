@@ -8,7 +8,9 @@ html {
 body {
     margin: 0;
     display: flex;
-    
+    justify-content: center;
+    align-items: center;
+    min-height: 85vh;
 
     
 }
@@ -35,7 +37,7 @@ h2 {
     max-width: 500px;
 } 
 .picture-of-post > img {
-    max-width: 500px;
+    width: 100%;
 }
 .middle {
     
